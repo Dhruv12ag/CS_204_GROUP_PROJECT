@@ -3,9 +3,8 @@
 The project is developed as part of Computer Architecture class
 Project Name: Functional Simulator for subset of RISCV Processor
 
-Developer's Name:
-Developer's Email id:
-Date: 
+Developers' Names: Aditya Yadav, Dhruv Agarwal
+Developers' Email ids: 2022meb1291@iitrpr.ac.in , 2022meb1307@iitrpr.ac.in
 
 */
 
