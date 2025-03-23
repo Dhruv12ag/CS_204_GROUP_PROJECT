@@ -1,0 +1,73 @@
+================================================
+Functional Simulator for RISCV Processor
+================================================
+
+README
+
+Table of contents
+1. Directory Structure
+2. How to build
+3. How to execute
+
+
+Directory Structure:
+--------------------
+CS204-Project
+  |
+  |- bin
+      |
+      |- output.out
+  |- doc
+      |
+      |- design-doc.docx
+  |- include
+      |
+      |- builtin_funcs.hpp
+      |- control_unit.hpp
+      |- global_variables.hpp
+      |- myRISCVSim.hpp
+      |- registerfile.hpp
+      |- self_defined_funcs.hpp
+  |- src
+      |- alu_unit.cpp
+      |- builtin_funcs.hpp
+      |- control_unit.cpp
+      |- control_unit.hpp
+      |- dec2bin.cpp
+      |- display.cpp
+      |- global_variables.cpp
+      |- global_variables.hpp
+      |- immediate.cpp
+      |- main.cpp
+      |- memory_read_write_funcs.cpp
+      |- mycode.mc
+      |- myRISCVSim.cpp
+      |- myRISCVSim.hpp
+      |- output.exe
+      |- registerfile.cpp
+      |- registerfile.hpp
+      |- self_defined_funcs.hpp
+  |- test
+      |- simple_add.mc
+      |- fibonnacci.mc
+      |- bubble_sort.mc
+  |- Project-statement.txt
+      
+How to build
+------------
+For building:
+first navigate to src folder
+
+We have to give the following command in terminal to run our code: 
+"g++ main.cpp alu_unit.cpp control_unit.cpp dec2bin.cpp global_variables.cpp immediate.cpp memory_read_write_funcs.cpp myRISCVSim.cpp registerfile.cpp -o output.exe" {output.out for linux}
+
+How to execute
+--------------
+ Then we should give the following command after the above command:
+ ./output.out <filename.mc>
+ where in brackets we have to write name of the file  alongwith relative address example (../test/bubble_sort.mc) which contain our assembly code
+
+ To exit the RISCV simulator we have used opcode="1111111" make sure to add this line at end of code to mark end of program
+
+
+
