@@ -69,5 +69,19 @@ How to execute
 
  To exit the RISCV simulator we have used opcode="1111111" make sure to add this line at end of code to mark end of program
 
+ Description:
+ The project's sorce code contains a number of c++ and header files. Each file having it's different function to do.In phase 1 the RISCV simulator will take one instruction at a time as it contains no pipelining.
+ The RISCV simulator have 5 main stages:
+ 1. Fetch: It's main function is to take next instruction and update PC.
+ 2. Decode: It will decode the fetched instruction and assign different values to source register, destination registor , func3 , func7, immediate,etc.
+ 3. Execute: It will do the main work of comparing and calculations as it contain the arithematic and logical unit and passes the information to memory.
+ 4. Memory: It function is to read and write from memory.
+ 5. Write back: It will make the necessary changes in the register file, PC and call for next instruction as PC will be updated after this step.
+ also keep track of clock cycles with clock cycle counter variable.
+ Team members:
 
+ Aditya Yadav : 2022MEB1291
 
+ Dhruv Agarwal : 2022MEB1307
+
+ Satyam Kumar : 2022MCB1279
