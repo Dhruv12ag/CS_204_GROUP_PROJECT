@@ -1,0 +1,5371 @@
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :12
+A :0
+B :12
+op2 :0
+rd :3
+PC: 0
+rs1 :0
+rs2 :12
+
+
+
+EX_MA_REGISTOR
+alu result :12 
+op2 : 0
+rd :3
+rs1 :0
+rs2 :12
+Branch PC(in hex) = 10001004
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :12 
+ld result :0 
+rd :3
+rs1 :0
+rs2 :12
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :9
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :9
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 40
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :9
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 24
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 3c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 80
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :7
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :7
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 80
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :7
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 1063196309
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 1063196309
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 1063196309
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 1063196309
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :31
+rs2 :31
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :31
+rs2 :31
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = bc
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :31
+rs2 :31
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3968982997
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3968982997
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3968982997
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3968982997
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3886312775
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3886312775
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3968982997
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3970116473
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 4255606178
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 760362905
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :4294967295 
+op2 : 875106277
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :4294967295 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = b5
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :8
+rs2 :1
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :8
+rs2 :1
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 9c
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :8
+rs2 :1
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2495479060
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 2893138783
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :16
+rs2 :4
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :16
+rs2 :4
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :16
+rs2 :4
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3163003358
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+IF_DE_REGISTOR
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :13
+rs2 :0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+DE_EX_REGISTOR
+Branch target :0
+A :0
+B :0
+op2 :0
+rd :0
+PC: 0
+rs1 :0
+rs2 :0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :13
+rs2 :0
+Branch PC(in hex) = 0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :0 
+op2 : 0
+rd :0
+rs1 :0
+rs2 :0
+Branch PC(in hex) = ac
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :13
+rs2 :0
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :0 
+ld result :0 
+rd :0
+rs1 :0
+rs2 :0
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3886312775
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
+
+
+
+EX_MA_REGISTOR
+alu result :1 
+op2 : 3919754348
+rd :13
+rs1 :14
+rs2 :13
+Branch PC(in hex) = 70
+PC: 0
+
+
+
+MA_WB_REGISTOR
+alu result :1 
+ld result :0 
+rd :13
+rs1 :14
+rs2 :13
+PC: 0
